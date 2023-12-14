@@ -1,0 +1,7 @@
+C:\Users\kotap\OneDrive\Desktop\Phase3 Assignments\Assignment 6\ProductInventoryDbConnect\ProductInventoryDbConnect\bin\Debug\ProductInventoryDbConnect.exe.config
+C:\Users\kotap\OneDrive\Desktop\Phase3 Assignments\Assignment 6\ProductInventoryDbConnect\ProductInventoryDbConnect\bin\Debug\ProductInventoryDbConnect.exe
+C:\Users\kotap\OneDrive\Desktop\Phase3 Assignments\Assignment 6\ProductInventoryDbConnect\ProductInventoryDbConnect\bin\Debug\ProductInventoryDbConnect.pdb
+C:\Users\kotap\OneDrive\Desktop\Phase3 Assignments\Assignment 6\ProductInventoryDbConnect\ProductInventoryDbConnect\obj\Debug\ProductInventoryDbConnect.csproj.AssemblyReference.cache
+C:\Users\kotap\OneDrive\Desktop\Phase3 Assignments\Assignment 6\ProductInventoryDbConnect\ProductInventoryDbConnect\obj\Debug\ProductInventoryDbConnect.csproj.CoreCompileInputs.cache
+C:\Users\kotap\OneDrive\Desktop\Phase3 Assignments\Assignment 6\ProductInventoryDbConnect\ProductInventoryDbConnect\obj\Debug\ProductInventoryDbConnect.exe
+C:\Users\kotap\OneDrive\Desktop\Phase3 Assignments\Assignment 6\ProductInventoryDbConnect\ProductInventoryDbConnect\obj\Debug\ProductInventoryDbConnect.pdb
